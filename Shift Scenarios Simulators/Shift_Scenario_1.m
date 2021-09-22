@@ -1,4 +1,4 @@
-% This code generates generates local mean shift.
+% This code generates local mean shift.
 %%%%%%%%%%%%%%%%
 %in-control surface
 clc;clear;
