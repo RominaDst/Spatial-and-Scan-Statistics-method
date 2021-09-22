@@ -1,4 +1,4 @@
-% This code generates generates Global Anisotropic Stationary Correlation shift.
+% This code generates Global Anisotropic Stationary Correlation shift.
 %%%%%%%%%%%%%%%%
 clc;clear;
 n = 256; % size of simulated surface n*n
