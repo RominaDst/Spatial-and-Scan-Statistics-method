@@ -1,4 +1,4 @@
-% This code generates generates Local Anisotropic Stationary Correlation shift
+% This code generates Local Anisotropic Stationary Correlation shift
 %%%%%%%%%%%%%%%%
 clc;clear;
 n = 256; % size of simulated surface n*n
