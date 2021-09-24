@@ -13,7 +13,7 @@ Ga = fft2(G);
 Z= iso_Exp(Ga,n); % in-control surface
 cd ..
 [resy0,resx0]=size(Z);
-[p0,n0]=variogram_maker1(resx0);% variogramf for inc-control surface
+[p0,n0]=variogram_maker1(resx0);% variogram of in-control surface
 np=n0(2:resx0/2+1);
 hs=[1:resx0/2];
 %%%%%%%%%%%%%%%
