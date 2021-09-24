@@ -13,7 +13,7 @@ for k=1:l-1
 end
 iS2=inv(S2); % covaince inverse
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-n =32; % sumulated usrface size n*n
+n =32; % simulated surface size n*n
 Z=zeros(n,n);
 z=zeros(n^2,1);
 [X,Y] = meshgrid(1:n,1:n); % construct gridded surface
